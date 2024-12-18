@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Gadha Pushpan</h1>
 <h3 align="<h1 align="left">Hi 👋, I'm Gadha Pushpan</h1>
-<h3 align="">I’m a passionate MERN Stack Developer. I specialize in building full-stack web applications, delivering seamless user experiences from frontend to backend. With a strong foundation in React, Node.js, Express, and MongoDB, I create robust and scalable solutions. I thrive on solving complex problems and turning ideas into reality through clean, efficient code.</h3>
+<p align="">I’m a passionate MERN Stack Developer. I specialize in building full-stack web applications, delivering seamless user experiences from frontend to backend. With a strong foundation in React, Node.js, Express, and MongoDB, I create robust and scalable solutions. I thrive on solving complex problems and turning ideas into reality through clean, efficient code.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
